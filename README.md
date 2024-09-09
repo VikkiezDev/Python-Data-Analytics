@@ -1,4 +1,4 @@
-# README: Walmart Sales Data Analysis
+# Walmart Sales Data Analysis
 
 This project provides an analysis of Walmart sales data using Python libraries like `pandas`, `numpy`, `matplotlib`, and `seaborn`. The notebook offers insights into sales trends, customer behavior, and other key metrics by generating visualizations and performing data analytics. Below is a brief overview of the content, dependencies, and usage of the project.
 
